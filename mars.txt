@@ -3,3 +3,5 @@ Mars
 Mars in the fourth planet from the Sun
 
 The curiosity rover on Mars sings happy birthday to itself every year.
+
+If a rover sings happy birthday to itself, and nobody is there to hear it, does it make a sound?
